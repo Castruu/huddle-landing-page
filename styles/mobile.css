@@ -1,0 +1,52 @@
+@media screen and (max-width: 768px) {
+
+    body {
+        background-image: url(../images/bg-mobile.svg)
+    }
+
+    .logo {
+        margin-bottom: 5vh;
+    }
+
+    .mockup img {
+        width: 80vw;
+        margin-bottom: 50px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        font-size: 12px;
+        min-width: 80vw;
+    }
+
+    .title {
+        font-size: 1.8rem;
+        max-width: 100%;
+    }
+
+    .solution {
+        max-width: 100%;
+        margin-top: 50px;
+    }
+
+    .social {
+        margin-top: 50px;
+        position: static;
+        text-align: center;
+    }
+
+    .btn {
+
+        width: 90%;
+    }
+
+    .description {
+        max-width: 80%;
+        align-items: center;
+        font-size: 1.1rem;
+    }
+
+}
