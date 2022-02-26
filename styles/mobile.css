@@ -5,7 +5,8 @@
     }
 
     .logo {
-        margin: 0 0 5vh 0;
+        padding: 20px;
+        margin-bottom: 5vh;
     }
 
     .mockup img {
@@ -33,13 +34,13 @@
     }
 
     .social {
+        min-width: 100vw;;
         margin-top: 50px;
         position: static;
         text-align: center;
     }
 
     .btn {
-
         width: 90%;
     }
 
